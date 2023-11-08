@@ -29,3 +29,8 @@ button:hover {
   border-top-left-radius: 8rem;
   border-bottom-right-radius: 7rem;
 }
+.b1{
+  height: 19rem;
+  width: 19rem;
+  border: 2px solid black;
+}
