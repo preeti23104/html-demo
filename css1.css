@@ -1,0 +1,15 @@
+.buttons{
+    display:inline-block;
+    background-color:red;
+    float:up;
+
+
+}
+.buttons ul li{
+    display: none;
+}
+.buttons:hover ul li{
+    display:block;
+    
+
+}
