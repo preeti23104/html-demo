@@ -1,0 +1,95 @@
+.loginpage1 {
+    width: 800px;
+    height: 800px;
+    background: linear-gradient(to right ,red,pink,violet,skyblue,blue,orange,yellow,green,cyan,brown); 
+    border:10px solid blue;
+   
+}
+
+.b11 {
+    color: solid black;
+    text-align: center;
+    font-size: 70px;
+}
+
+.h41 {
+    color: solid black;
+    text-align:center;
+    font-size:30px;
+   
+}
+ .h42{
+      margin-top:150px;
+      color: solid black;
+    font-size:30px;
+ }
+p{
+    color:solid black;
+     font-size:30px;
+   
+}
+.loginpage2 {
+    width: 800px;
+    height: 800px;
+    color:solid black;
+    background: linear-gradient(to left ,red,rgb(204, 119, 133),rgb(161, 101, 161),skyblue,blue,orange,yellow,green,cyan,brown); 
+    border:10px solid blue;
+   
+   
+}
+.p1{
+text-align:center;
+color: 2px solid black;
+
+}
+.login{
+    display:flex;
+    border:5px solid black;
+     
+  
+}
+
+.email{
+    margin-top: 40px;
+    text-align: center;
+    width: 350px;
+    height:40px;
+    border-radius:10px ;
+    border:5px solid blue;
+   
+}
+.password{
+    margin-top: 40px;
+    text-align: center;
+    width: 350px;
+    height:40px;
+    border-radius:10px ;
+    border:5px solid blue;
+   
+}
+    
+
+ .h11{
+    font-size:60px;
+    margin-top:40px;
+    margin-left:40px;
+    text-align:center;
+    margin-top:100px;
+    color:solid black;
+}
+.button:hover{
+    color:red;
+    background:pink;
+    cursor:pointer;
+}
+.button{
+    margin-top:40px;
+    margin-right:60px;
+    margin-left: 60px;
+    text-align: center; 
+    color:red;
+    width:400px;
+    height:50px;
+    border:5px solid blue;
+    border-radius:20px;
+}
