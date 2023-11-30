@@ -1,0 +1,23 @@
+
+@media only screen and (max-width:420px){
+    body{
+        background-color: aqua;
+        color:black;
+    }
+}
+
+
+.paragraph{
+    width:700px;
+    height: 600px;
+    border:2px solid black
+
+}
+
+@media only screen and (max-width:420px){
+    .paragraph{
+        background-color: aqua;
+        color:rgb(241, 0, 0);
+       
+    }
+}
